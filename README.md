@@ -48,7 +48,7 @@ TRANSLATION_API_KEY = 'your_google_api_key'
 Run the project using the following command:
 
 ```bash
-web_scraping_translation_browserstack.py
+web_scraping.py
 
 ```
 
